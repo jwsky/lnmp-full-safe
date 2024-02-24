@@ -11,7 +11,7 @@ Safe Download Source for lnmp tools All Versions Install Script
 | 发生时间  | 内容  | 链接  |
 |  ----  | ----  |----  |
 | 20230919 |安恒信息CERT发布  关于LNMP供应链投毒事件风险提示 正式发现 | https://mp.weixin.qq.com/s/OT7C1l5rjBNCawFXRIUJOQ| 
-| 20230927 | oneinstack.com 的备案号 9 月 27 号变更为：浙 ICP 备 2023007596 号-4，与该公司运营的盗版 MAC 软件网站的备案号：浙 ICP 备 2023007596 号-1 一致，该公司还同时收购了军哥的 lnmp.org 一键脚本，lnmp.org 网站下的版权信息已经变更 |  [twitter消息](https://twitter.com/landiantech/status/1709226985334214932)| 
+| 20230927 | oneinstack.com 的备案号 9 月 27 号变更为：浙 ICP 备 2023007596 号-4，与该公司运营的 MAC 软件网站的备案号：浙 ICP 备 2023007596 号-1 一致，该公司还同时收购了军哥的 lnmp.org 一键脚本，lnmp.org 网站下的版权信息已经变更 |  [twitter消息](https://twitter.com/landiantech/status/1709226985334214932)| 
 | 20231006 | oneinstack issue有人反馈下载的数据和官方不一致，作者反馈是自己管理不善 |  https://github.com/oneinstack/oneinstack/issues/511| 
 | 20231122 | oneinstack issue继续有人反馈md5不一致，截止20230224暂未有解释原因 |https://github.com/oneinstack/oneinstack/issues/517|
 
