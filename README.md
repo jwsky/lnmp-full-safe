@@ -2,7 +2,7 @@
 # 介绍
 Safe Download Source for lnmp tools All Versions Install Script
 安全的lnmp全版本安装服务
-文件校验的md5数据来自 [webarchive](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)
+文件校验的md5数据来自 webarchive 具体时间线见下方表格
 # 背景
 ### 起因
 众所周知，lnmp.org为非常好用的环境部署工具，但是在二零二三年，9月19号被监测到有投毒风险，网站的说明也从个人变成了金华市的一家公司，后续，他们相继收购了 oneinstack，也是wdcp持有者；
