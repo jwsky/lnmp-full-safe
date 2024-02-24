@@ -21,6 +21,7 @@ Safe Download Source for lnmp tools All Versions Install Script
 # 安全文件服务如下
 lnmp脚本支持在线下载文件安装，也支持离线安装，离线安装，会预先把所有的文件打包到一个压缩包里，使用过程中不会再联网下载安装包。
 目前已验证的完整安装包的内容和数据源，请下载之后使用 md5sum 工具务必再校验一遍，具体使用方式可以自行网上查找
+感谢lnmp.club
 
 | Version                | File Size | MD5                              |  Source|Download Link|
 |------------------------|-----------|----------------------------------| ------|-------|
