@@ -1,17 +1,50 @@
-# lnmp-full-safe
-safe download for lnmp tools all versions install script
+# lnmp-full-safe Download
+# 介绍
+Safe Download Source for lnmp tools All Versions Install Script
+安全的lnmp全版本安装服务
+文件校验的md5数据来自 [webarchive](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)
+# 背景
+### 起因
+众所周知，lnmp.org为非常好用的环境部署工具，但是在二零二三年，9月19号被监测到有投毒风险，网站的说明也从个人变成了金华市的一家公司，后续，他们相继收购了 oneinstack，也是wdcp持有者；
+均有类似问题
+### 事件发生时间线：
+| 发生时间  | 内容  | 链接  |
+|  ----  | ----  |----  |
+| 20230919 |安恒信息CERT发布  关于LNMP供应链投毒事件风险提示 正式发现 | https://mp.weixin.qq.com/s/OT7C1l5rjBNCawFXRIUJOQ| 
+| 20231006 | oneinstack issue有人反馈下载的数据和官方不一致，作者反馈是自己管理不善 |  https://github.com/oneinstack/oneinstack/issues/511| 
+| 20231122 | oneinstack issue继续有人反馈md5不一致，截止20230224暂未有解释原因 |https://github.com/oneinstack/oneinstack/issues/517| 
+# 安全文件服务如下
+lnmp脚本支持在线下载文件安装，也支持离线安装，离线安装，会预先把所有的文件打包到一个压缩包里，使用过程中不会再联网下载安装包。
+目前已验证的完整安装包的内容和数据源，请下载之后使用 md5sum 工具务必再校验一遍，具体使用方式可以自行网上查找
+
+| Version                | File Size | MD5                              |  Source|Download Link|
+|------------------------|-----------|----------------------------------| ------|-------|
+| lnmp2.0-full.tar.gz | |待验证|--|
+| lnmp1.9-full.tar.gz | 1GB|8486d50dc908dda7ada559834c0064b8|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.8-full.tar.gz    | 909MB     | 3027d97ff1c4d19141dc8b243f4135ec|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.7-full.tar.gz    | 870MB     | 763e66eb3d6b234019dab57a1d9c80c5|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.6-full.tar.gz    | 677MB     | ed70f840634a74619d9a6e81c66b4843|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.5-full.tar.gz    | 581MB     | 1ce4d7ef8c57341f8c56983bbb29ebfa|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.4-full.tar.gz    | 406MB     | 8419aaafc137057087812ea447e7b13a|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.3-full.tar.gz    | 478MB     | a5aa55cd177cd9b9176ad697c12e45c0|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.2-full.tar.gz    | 312MB     | b3d3d9e40395f4eb5e525adfaabfb675 |[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.1-full.tar.gz    | 184MB     | 744d0155b8ebe4ae424578937a0cafac|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp1.0-full.tar.gz    | 134MB     | e1127d65d93415c429010d6859353eea |[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp0.9-full.tar.gz    | 61.83MB   | 0eb79ddd5cd1df3a487f62e7943aaa9d |[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp0.8-full.tar.gz    | 80.25MB   |Not Provided                                | -                          |
+| lnmp0.7-full.tar.gz    | 66.64MB   | Not Provided                                | -                          |
+| lnmp0.6-full.tar.gz    | 50.56MB   | Not Provided                                 | -                          |
+| lnmp0.5-full.tar.gz    | 44.19MB   | Not Provided                                | -                          |
+| lnmp0.4-full.tar.gz    | 44.2MB    | Not Provided                                 | -                          |
+
+
+
+
 
 From  webarchive  20230830 version
-
-
-
-Wayback Machine
 https://lnmp.org/download.html
 249 captures
 31 Dec 2009 - 15 Feb 2024
-JUN	AUG	SEP
-Previous capture	31	Next capture
-2022	2023	2024
   
  About this capture
 有问题，这里输入关键词进行搜索
