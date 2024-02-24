@@ -19,8 +19,9 @@ lnmp脚本支持在线下载文件安装，也支持离线安装，离线安装�
 
 | Version                | File Size | MD5                              |  Source|Download Link|
 |------------------------|-----------|----------------------------------| ------|-------|
-| lnmp2.0-full.tar.gz | |待验证|--|
-| lnmp1.9-full.tar.gz | 1GB|8486d50dc908dda7ada559834c0064b8|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
+| lnmp2.0-full.tar.gz |1.2GB |ada53925291dc448b70f19de8f92880c|[webarchive20230831](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)|wait|
+| lnmp1.9-full-v2.tar.gz（理论上v1 v2均安全，为两个军哥自己修改的版本） | 1GB|8486d50dc908dda7ada559834c0064b8|[webarchive20230831](https://web.archive.org/web/20230831000930/https://lnmp.org/download.html)|wait|
+| lnmp1.9-full-v1.tar.gz（理论上v1 v2均安全，为两个军哥自己修改的版本） | 1GB|09020777f9ce981a01b1fdd229f6f427|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
 | lnmp1.8-full.tar.gz    | 909MB     | 3027d97ff1c4d19141dc8b243f4135ec|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
 | lnmp1.7-full.tar.gz    | 870MB     | 763e66eb3d6b234019dab57a1d9c80c5|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
 | lnmp1.6-full.tar.gz    | 677MB     | ed70f840634a74619d9a6e81c66b4843|[Webarchive20230430](https://web.archive.org/web/20230530002906/https://lnmp.org/download.html)|wait|
