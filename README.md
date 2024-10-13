@@ -1,5 +1,5 @@
 # Lnmp 安全下载 - lnmp-full-safe lnmp.org Safe Download
-中文   |  English 
+[中文版本](https://github.com/jwsky/lnmp-full-safe)   |  [English Version](https://github.com/jwsky/lnmp-full-safe/blob/main/README-ENGLISH.md)
 # 介绍
 Safe Download Source for lnmp tools All Versions Install Script
 安全的lnmp全版本安装服务，本内容是lnmp.org历史版本的快照集合，
