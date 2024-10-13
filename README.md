@@ -1,8 +1,11 @@
-# lnmp-full-safe lnmp.org Safe Download
+# Lnmp 安全下载 - lnmp-full-safe lnmp.org Safe Download
+中文   |  English 
 # 介绍
 Safe Download Source for lnmp tools All Versions Install Script
-安全的lnmp全版本安装服务
-文件校验的md5数据来自 webarchive 具体时间线见下方表格
+安全的lnmp全版本安装服务，本内容是lnmp.org历史版本的快照集合，
+文件来源：来自天翼网盘的历史文件（带当年上传的时间戳）， [链接](https://cloud.189.cn/web/share?code=mmMF32NbEZv2)
+文件校验的md5数据：来自 webarchive，具体时间线见下方表格
+
 # 背景
 ### 起因
 众所周知，lnmp.org为非常好用的环境部署工具，但是在2023年9月19号被监测到有投毒风险，网站的说明也从个人变成了金华市的一家公司，后续，他们相继收购了 oneinstack，也是wdcp持有者；
